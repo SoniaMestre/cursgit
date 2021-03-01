@@ -4,3 +4,5 @@
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 }
+Hola, aquest és un comió a branch1
+Según candi per Fer add commit I push I desires merge
